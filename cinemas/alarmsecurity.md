@@ -1,28 +1,19 @@
 ---
 title: Alarm security
 description: Alat keamanan supermarket minimarket toko baju distro.
-date: 2018-05-01
+date: 2022-03-01
 cover: JUM7ZPjBK4Y
 tags:
-  - cinema tag
+  - tags
+  - alarm security
+  - alarm
 layout: layouts/cinema.njk
 ---
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Alarm security benar benar ampuh dan secara langsung dapat menaggulangi tindakan kriminal pencurian include dengan barang buktinya secara langsung, hal ini dikarenakan dengan sensor sensitif nya maka alarm dapat berbunyi ketika tag sensor belum terlepas dari produk nya, dengan system tag yang luar biasa rekat nya maka diperlukan alat khusus untuk melepaskan tags ini sehingga tidak bisa dilepaskan biasa saja, tetapi harus menggunakan alat pelepas khusus yang bundle dalam satu paket nya. selain itu tanpa kamera cctv sekalipun kita dengan mudah dapat menangkap pencuri secara langsung include dengan barang bukti nya, dengan bunyi nya alarm maka dipastikan ada produk dan barang tag yang belum terlepas sehingga sensor menangkap dan mersepon dengan mengeluarkan bunyi. ini adalah solusi keamanan terbaik untuk toko baju butik distro mu.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+## Bundle paket alarm security
 
-## Section Header
+Setiap order alarm security ini sendiri sudah include dengan hadirnya beberapa pelengkap seperti tiang antena dengan one gateway system yang mampu menjangkau sisi kanan dan kiri masing masing 75cm, alat pelepas medan sensor magentic, dan tags sensor untuk dipasangkan ke produk.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
-
-```text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
+pemasangan nya pun cukup mudah saja tinggal plug and play dan letakan antena alarm pada sisi tengah pintu , kemudian gunakan tag sensor dan rekatkan ke produk, nantinya untuk kemanan pastikan pelepas tag berada di area kasir untuk memudahkan melepas tag sensor.

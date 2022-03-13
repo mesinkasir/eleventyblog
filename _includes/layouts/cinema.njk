@@ -2,18 +2,20 @@
 layout: layouts/base.njk
 templateClass: tmpl-cinema
 ---
-<h1>{{ title }}</h1>
+<h1><strong><a href="{{ url }}">{{ title }}</a></strong></h1>
 
 <div class="ratio ratio-16x9">
   <iframe src="https://www.youtube.com/embed/{{ cover }}" class="rounded" title="{{ title }}" allowfullscreen></iframe>
 </div>
-<time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
-{%- for tag in tags | filterTagList -%}
-{%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
-<a href="{{ tagUrl | url }}" class="cinema-tag">{{ tag }}</a>
-{%- endfor %}
+Publish on : <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time><br/>
 
+<h3>{{ description }}</h3>
 {{ content | safe }}
+
+hastag : 
+{%- for tag in tags | filterTagList -%}
+{%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}&nbsp;<a href="{{ tagUrl | url }}" class="post-tag border-bgs p-1"> #{{ tag }} </a>
+{%- endfor %}
 
 {%- set nextCinema = collections.cinemas | getNextCollectionItem(page) %}
 {%- set previousCinema = collections.cinemas | getPreviousCollectionItem(page) %}
