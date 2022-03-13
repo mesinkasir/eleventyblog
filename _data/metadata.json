@@ -1,8 +1,8 @@
 {
   "title": "Bootstrap 11ty Blog's",
-  "url": "https://example.com/",
+  "url": "https://eleventyblog.pages.dev/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Source code eleventy website template dan pembuatan website aplikasi",
   "facebook": "https://www.facebok.com/mesinkasircomplete",
   "youtube": "https://www.youtube.com/c/bakoelraksupermarketMesinKasir/videos",
   "twitter": "https://www.youtube.com/c/bakoelraksupermarketMesinKasir/videos",
@@ -52,14 +52,14 @@
     "url5": "https://android.axcora.com/"
   },
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Source code eleventy website template dan pembuatan website aplikasi",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://eleventyblog.pages.dev/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://eleventyblog.pages.dev//feed/feed.json"
   },
   "author": {
     "name": "Creative By Dre",
