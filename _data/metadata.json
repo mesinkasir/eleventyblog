@@ -1,6 +1,6 @@
 {
-  "title": "Bootstrap 11ty Blog's",
-  "url": "https://eleventyblog.pages.dev/",
+  "title": "11ty website app Blog's",
+  "url": "https://eleventyblog.vercel.app/",
   "language": "en",
   "description": "Source code eleventy website template dan pembuatan website aplikasi",
   "facebook": "https://www.facebok.com/mesinkasircomplete",
@@ -14,13 +14,13 @@
     "sup3": "Bootstrap",
     "sup4": "Hockeycomp",
     "sup5": "Github",
-    "sup6": "Cloudflare",
+    "sup6": "Vercel",
     "url1": "https://axcora.com/getaxcoracms",
     "url2": "https://11ty.dev",
     "url3": "https://getbootstrap.com",
     "url4": "https://www.hockeycomputindo.com",
     "url5": "https://github.com",
-    "url6": "https://cloudflare.com"
+    "url6": "https://vercel.com"
   },
   "contact": {
     "cont1": "Whatsapp",
@@ -55,11 +55,11 @@
     "subtitle": "Source code eleventy website template dan pembuatan website aplikasi",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://eleventyblog.pages.dev/"
+    "id": "https://eleventyblog.vercel.app/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://eleventyblog.pages.dev//feed/feed.json"
+    "url": "https://eleventyblog.vercel.app/feed/feed.json"
   },
   "author": {
     "name": "Creative By Dre",
