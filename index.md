@@ -6,6 +6,11 @@ Demo Test drive 2 🛸 : [https://bootstrap11ty.pages.dev/ ](https://bootstrap11
 
 documentation 💻 : [https://www.hockeycomputindo.com/2022/03/eleventy-bootstrap-web-template-seo.html](https://www.hockeycomputindo.com/2022/03/eleventy-bootstrap-web-template-seo.html)
 
+video 📽 :
+[https://www.youtube.com/watch?v=zj_wFjUtuwU](https://www.youtube.com/watch?v=zj_wFjUtuwU)
+
+---
+
 recipes :
 
 - eleventy
