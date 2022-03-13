@@ -2,7 +2,6 @@
 
 Demo Test drive 🚀 : [https://eleventyblog.vercel.app/ ](https://eleventyblog.vercel.app/)
 
-
 Demo Test drive 2 🛸 : [https://bootstrap11ty.pages.dev/ ](https://bootstrap11ty.pages.dev/)
 
 documentation 💻 : [https://www.hockeycomputindo.com/2022/03/eleventy-bootstrap-web-template-seo.html](https://www.hockeycomputindo.com/2022/03/eleventy-bootstrap-web-template-seo.html)
@@ -13,8 +12,19 @@ recipes :
 - bootstrap
 - vercel
 - stackblitz
+- markdown
+- auto SEO
 
-this project on progress finishing.....
+---
+
+### Buy me a coffee ☕️ ❤️ ✌🏻
+
+with moneygram or western union
+
+- BANK CENTRAL ASIA
+- ACCOUNT NO : 0181884109
+- ACCOUNT NAME : SUCI CHANIFAH
+- IBAN/SWIFT CODE : CENAIDJA
 
 ---
 
@@ -33,3 +43,16 @@ Webapp page area
 ![eleventy 11ty bootstrap website template free download source code gratis](https://blogger.googleusercontent.com/img/a/AVvXsEjBZQEEIIFpiibvcsw4PSE4Kt9u-kxGsOWrmbDlZ76GPzrPIZYgszvDrSap-LFHQNy0650K-3j6VUSrkJbsWGZJ1vG7w_lZ2ISMeFZEhUH9ZB3rtppxZdMI-JRVggm6sHdChJMuXCS1AS7o62eYE8tC6VSESlaB5-OpgDqkGwmo4cyWSQeSr2IChy1D2Q=s1344)
 
 Cinema video page area
+
+---
+
+### Buy me a coffee ☕️ ❤️ ✌🏻
+
+with moneygram or western union
+
+- BANK CENTRAL ASIA
+- ACCOUNT NO : 0181884109
+- ACCOUNT NAME : SUCI CHANIFAH
+- IBAN/SWIFT CODE : CENAIDJA
+
+---
