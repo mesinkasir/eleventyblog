@@ -18,7 +18,7 @@ hastag :
 {%- set previousPromo = collections.promos | getPreviousCollectionItem(page) %}
 {%- if nextPromo or previousPromo %}
 <div class="text-center p-3">
-  {%- if nextPromo %} <a class="btn btn-bgs text-white" href="{{ nextPromo.url | url }}">← {{ nextPromo.data.title }}</a>{% endif %}
-  {%- if previousPromo %}&nbsp;<a class="btn btn-bgs text-white" href="{{ previousPromo.url | url }}">{{ previousPromo.data.title }} →</a>{% endif %}
+  {%- if nextPromo %} <a class="float-start btn btn-bgs btn-sm border border-white text-white" href="{{ nextPromo.url | url }}">← {{ nextPromo.data.title }}</a>{% endif %}
+  {%- if previousPromo %}&nbsp;<a class="float-end btn btn-bgs btn-sm border border-white text-white" href="{{ previousPromo.url | url }}">{{ previousPromo.data.title }} →</a>{% endif %}
 </div>
 {%- endif %}
