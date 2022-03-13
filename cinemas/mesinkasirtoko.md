@@ -1,10 +1,14 @@
 ---
-title: This is my first cinema.
-description: This is a cinema on My Blog about agile frameworks.
+title: Mesin Kasir Toko
+description: Mesin kasir toko barcode minimarket shop lengkap siap pakai.
 date: 2018-05-01
-cover: udKMluOXNdA
+cover: hzXc74f5KP8
 tags:
-  - cinema tag
+  - mesin kasir toko
+  - mesin kasir
+  - pos
+  - barcode
+  - touchscreen pos
 layout: layouts/cinema.njk
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: Mesin kasir restoran
-description: Mesin kasir lengkap touchscreen restoran cafe rumah makan waiters kasir kitchen admin.
+title: Alarm security
+description: Alat keamanan supermarket minimarket toko baju distro.
 date: 2018-05-01
-cover: gGZcHO32mh4
+cover: JUM7ZPjBK4Y
 tags:
   - cinema tag
 layout: layouts/cinema.njk
