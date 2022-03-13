@@ -1,0 +1,24 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-post
+---
+<h1><strong><a href="{{ url }}">{{ title }}</a></strong></h1>
+
+<img width="100%" class="img-fluid" alt="{{ title }}"  src="{{ cover }}"/>
+Publish on : <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time><br/>
+
+<h3>{{ description }}</h3>
+{{ content | safe }}
+hastag : 
+{%- for tag in tags | filterTagList -%}
+{%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}&nbsp;<a href="{{ tagUrl | url }}" class="post-tag border-bgs p-1"> #{{ tag }} </a>
+{%- endfor %}
+
+{%- set nextPost = collections.posts | getNextCollectionItem(page) %}
+{%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+{%- if nextPost or previousPost %}
+<div class="text-center p-3">
+  {%- if nextPost %} <a class="btn btn-bgs text-white" href="{{ nextPost.url | url }}">← {{ nextPost.data.title }}</a>{% endif %}
+  {%- if previousPost %}&nbsp;<a class="btn btn-bgs text-white" href="{{ previousPost.url | url }}">{{ previousPost.data.title }} →</a>{% endif %}
+</div>
+{%- endif %}

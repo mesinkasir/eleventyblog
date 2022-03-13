@@ -1,0 +1,24 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-promo
+---
+<h1><strong><a href="{{ url }}">{{ title }}</a></strong></h1>
+
+<img width="100%" class="img-fluid rounded shadow" alt="{{ title }}"  src="{{ cover }}"/>
+Publish on : <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time><br/>
+
+<h3>{{ description }}</h3>
+{{ content | safe }}
+hastag : 
+{%- for tag in tags | filterTagList -%}
+{%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}&nbsp;<a href="{{ tagUrl | url }}" class="post-tag border-bgs p-1"> #{{ tag }} </a>
+{%- endfor %}
+
+{%- set nextPromo = collections.promos | getNextCollectionItem(page) %}
+{%- set previousPromo = collections.promos | getPreviousCollectionItem(page) %}
+{%- if nextPromo or previousPromo %}
+<div class="text-center p-3">
+  {%- if nextPromo %} <a class="btn btn-bgs text-white" href="{{ nextPromo.url | url }}">← {{ nextPromo.data.title }}</a>{% endif %}
+  {%- if previousPromo %}&nbsp;<a class="btn btn-bgs text-white" href="{{ previousPromo.url | url }}">{{ previousPromo.data.title }} →</a>{% endif %}
+</div>
+{%- endif %}

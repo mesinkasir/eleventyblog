@@ -1,0 +1,25 @@
+<div class="container">
+<div class="row mt-5">
+<h3 class="text-center p-1 border bg-bgs">Update News</h3>
+<div class="p-3 text-center">
+<a href="{{ metadata.slug.url1 }}"><img class="img-fluid rounded shadow" src="{{ metadata.slug.cont1 }}" alt="{{ metadata.slug.sub1 }}"/></a></div>
+{% for post in postslist | reverse %}
+<div reversed class="postlist col-md-6 p-1" style="counter-reset: start-from {{ (postslistCounter or postslist.length) + 1 }}">
+
+<div class="card">
+<a href="{{ post.url | url }}" class="postlist-link row">
+    <div class="col-md-4">
+  <img class="img-fluid border-end" width="100%" src="{{ post.data.cover }}"/>
+    </div>
+  <div class="card-body p-1 col-md-8 postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
+      <div class="card-body">
+        <h5 class="card-title">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</h5>
+    <p class="card-text"><time class="postlist-date text-secondary" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></p>
+      </div>
+  </div>
+  </a>
+</div>
+</div>
+{% endfor %}
+</div>
+</div>

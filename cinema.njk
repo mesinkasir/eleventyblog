@@ -1,0 +1,12 @@
+---
+layout: layouts/home.njk
+permalink: /cinemas/
+eleventyNavigation:
+  key: Cinema
+  order: 5
+---
+
+<h1>Cinema List</h1>
+
+{% set cinemaslist = collections.cinemas %}
+{% include "cinemaslist.njk" %}

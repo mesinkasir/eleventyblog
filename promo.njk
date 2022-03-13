@@ -1,0 +1,12 @@
+---
+layout: layouts/home.njk
+permalink: /webapp/
+eleventyNavigation:
+  key: Web App
+  order: 4
+---
+
+<h1>Products Website Applikasi</h1>
+
+{% set promoslist = collections.promos %}
+{% include "promoslist.njk" %}

@@ -1,0 +1,40 @@
+.navbar {
+  background-color: #6f42c1;
+}
+.navbar-brand {
+  color: white;
+}
+.nav-link {
+  color: white;
+}
+.nav-link:hover {
+  color: pink;
+}
+.btn-bgs {
+  background-color: #6f42c1;
+  color: white;
+}
+.bg-bgs {
+  background-color: #6f42c1;
+  color: white;
+}
+.border-bgs {
+  border: #6f42c1;
+  color: #6f42c1;
+}
+.list-group-item-action:active {
+  background-color: #6f42c1;
+  color: white;
+}
+a {
+  text-decoration: none;
+}
+a {
+  color: #6f42c1;
+}
+a:hover {
+  color: #6f42c1;
+}
+a:hover {
+  color: hotpink;
+}

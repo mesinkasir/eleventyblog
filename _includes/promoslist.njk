@@ -1,0 +1,27 @@
+<div class="container">
+<div class="row mt-5">
+<h3 class="text-center p-1 border bg-bgs">Web App</h3>
+<div class="p-3 text-center">
+<a href="{{ metadata.slug.url2 }}"><img class="img-fluid rounded shadow" src="{{ metadata.slug.cont2 }}" alt="{{ metadata.slug.sub2 }}"/></a>
+</div>
+{% for promo in promoslist | reverse %}
+<div reversed class="promolist col-md-4 p-1" style="counter-reset: start-from {{ (promoslistCounter or promoslist.length) + 1 }}">
+
+<div class="card">
+<a href="{{ promo.url | url }}" class="promolist-link">
+  <img class="card-img-top" width="100%" src="{{ promo.data.cover }}"/>
+  <div class="card-body p-1 promoslist-item{% if promo.url == url %} promolist-item-active{% endif %}">
+      <div class="card-body">
+        <h5 class="card-title">{% if promo.data.title %}{{ promo.data.title }}{% else %}<code>{{ promo.url }}</code>{% endif %}</h5>
+    <p class="card-text"><time class="promolist-date text-secondary" datetime="{{ promo.date | htmlDateString }}">{{ promo.date | readableDate }}</time></p>
+      </div>
+  </div>
+  </a>
+</div>
+</div>
+{% endfor %}
+
+<div class="p-3 text-center">
+<a href="{{ metadata.slug.url3 }}"><img class="img-fluid rounded shadow" src="{{ metadata.slug.cont3 }}" alt="{{ metadata.slug.sub3 }}"/></a></div>
+</div>
+</div>
