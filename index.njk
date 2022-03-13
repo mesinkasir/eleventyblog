@@ -18,7 +18,7 @@ eleventyNavigation:
 {% include "promoslist.njk" %}
 
 
-{% set maxCinemas = collections.cinemas.length | min(1) %}
-{% set cinemaslist = collections.cinemas | head(-1) %}
+{% set maxCinemas = collections.cinemas.length | min(2) %}
+{% set cinemaslist = collections.cinemas | head(-2) %}
 {% set cinemaslistCounter = collections.cinemas | length %}
 {% include "cinemaslist.njk" %}
