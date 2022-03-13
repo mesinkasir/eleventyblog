@@ -2,6 +2,9 @@
 
 Demo Test drive 🚀 : [https://eleventyblog.vercel.app/ ](https://eleventyblog.vercel.app/)
 
+
+Demo Test drive 2 🛸 : [https://bootstrap11ty.pages.dev/ ](https://bootstrap11ty.pages.dev/)
+
 documentation 💻 : [https://www.hockeycomputindo.com/2022/03/eleventy-bootstrap-web-template-seo.html](https://www.hockeycomputindo.com/2022/03/eleventy-bootstrap-web-template-seo.html)
 
 recipes :
@@ -10,6 +13,8 @@ recipes :
 - bootstrap
 - vercel
 - stackblitz
+
+this project on progress finishing.....
 
 ---
 
