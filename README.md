@@ -22,17 +22,6 @@ recipes :
 
 ---
 
-### Buy me a coffee ☕️ ❤️ ✌🏻
-
-with moneygram or western union
-
-- BANK CENTRAL ASIA
-- ACCOUNT NO : 0181884109
-- ACCOUNT NAME : SUCI CHANIFAH
-- IBAN/SWIFT CODE : CENAIDJA
-
----
-
 ![eleventy 11ty bootstrap website template free download source code gratis](https://blogger.googleusercontent.com/img/a/AVvXsEiLXB6Jbqsdyo5g_MU1g2yy0qm4wMUlR0PlcaU4SgxUzNH3pS0_9Lb31s2WlEZIdY_PTRHauXcHHIQJ2yyxmQ6vKTHwVumC3-lI-1C8k0R2LMkHtb7DSqWMWNpjyI9ZR91Mf4gK6z3hv3tIiTNYqHt1w7BloH3Q2WgrN2j82Wviv2gVU2ye9D1w-hXf9w=s3455)
 
 Home Page area
