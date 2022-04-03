@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/mesinkasir/eleventyblog/issues"
   },
-  "homepage": "https://github.com/mesinkasir/eleventyblog#readme",
+  "homepage": "https://eleventyblog.vercel.app/",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
     "@11ty/eleventy-navigation": "^0.1.6",
