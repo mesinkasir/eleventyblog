@@ -2,6 +2,8 @@
 
 Demo Test drive 🚀 : [https://eleventyblog.vercel.app/ ](https://eleventyblog.vercel.app/)
 
+Demo test drive for complete blog 👨🏼‍🚀 : [https://tokorak.web.app/](https://tokorak.web.app/)
+
 Demo Test drive 2 - company 🛸 : [https://raktoko.web.app/ ](https://raktoko.web.app/)
 
 Demo Test drive 3 - blog 🤖 : [https://bootstrap11ty.pages.dev/ ](https://bootstrap11ty.pages.dev/)
@@ -19,17 +21,6 @@ recipes :
 - stackblitz
 - markdown
 - auto SEO
-
----
-
-### Buy me a coffee ☕️ ❤️ ✌🏻
-
-with moneygram or western union
-
-- BANK CENTRAL ASIA
-- ACCOUNT NO : 0181884109
-- ACCOUNT NAME : SUCI CHANIFAH
-- IBAN/SWIFT CODE : CENAIDJA
 
 ---
 
