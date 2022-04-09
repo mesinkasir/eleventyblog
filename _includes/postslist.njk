@@ -9,7 +9,7 @@
 <div class="card">
 <a href="{{ post.url | url }}" class="postlist-link row">
     <div class="col-md-4">
-  <img class="img-fluid border-end" width="100%" src="{{ post.data.cover }}"/>
+  <img class="img-fluid border-end" alt="{{ post.data.title }}" width="100%" src="{{ post.data.cover }}"/>
     </div>
   <div class="card-body p-1 col-md-8 postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
       <div class="card-body">

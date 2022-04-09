@@ -9,7 +9,7 @@
 
 <div class="card">
 <a href="{{ promo.url | url }}" class="promolist-link">
-  <img class="card-img-top" width="100%" src="{{ promo.data.cover }}"/>
+  <img class="card-img-top" alt="{{ promo.data.title }}" width="100%" src="{{ promo.data.cover }}"/>
   <div class="card-body p-1 promoslist-item{% if promo.url == url %} promolist-item-active{% endif %}">
       <div class="card-body">
         <h5 class="card-title">{% if promo.data.title %}{{ promo.data.title }}{% else %}<code>{{ promo.url }}</code>{% endif %}</h5>
