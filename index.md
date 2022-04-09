@@ -2,6 +2,8 @@
 
 Demo Test drive 🚀 : [https://eleventyblog.vercel.app/ ](https://eleventyblog.vercel.app/)
 
+Demo test drive for complete blog 👨🏼‍🚀 : [https://tokorak.web.app/](https://tokorak.web.app/)
+
 Demo Test drive 2 - company 🛸 : [https://raktoko.web.app/ ](https://raktoko.web.app/)
 
 Demo Test drive 3 - blog 🤖 : [https://bootstrap11ty.pages.dev/ ](https://bootstrap11ty.pages.dev/)
@@ -11,6 +13,26 @@ documentation 💻 : [https://www.hockeycomputindo.com/2022/03/eleventy-bootstra
 video 📽 :
 [https://www.youtube.com/watch?v=zj_wFjUtuwU](https://www.youtube.com/watch?v=zj_wFjUtuwU)
 
+---
+
+### TESTER RESULT
+
+Gt Metrix test
+
+![eleventy 11ty bootstrap website seo FAST WEBSITE ](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5bym3tkvi1NHm7vL3ZYoza_6xfR_8vZYum5K6b1o2XdYdmJaK-AZDMgKKNzlJoBCksbYn7g7UJMLrzrqsS1Ssj1CN3Tl2agxsMiVcdA3gh3Y-sIEChXaDQietkYAyHd5N-uqL1eEiceb1RTun6T4YEprFbNrK0wgSNZRK1YFVgsN5XvN8S_3ZQJaF6g/s1348/fast%20website%20SEO%20eleventy%20(1).png>)
+
+lighthouse test
+
+![FAST WEBSITE eleventy 11ty bootstrap website seo](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFuN9olGyoeSbuJGJ7LQyB12s46F9w0aKN9rxZJisG9Vp2WViXOM-ctNeXLFe-EpzTkfo_LfifjmoTVM_qkMFiVnbtqDzM-cMKa0RjvlrxY3iZp1Xq53IGNrTyQOt04WNNihr3v0OdSxwNjKYPSlFGOIHqEg0vg6ZjosJWpcsqGs1ckUbEPUftfDny9w/s1348/fast%20website%20SEO%20eleventy%20(2).png>)
+
+Mobile test
+
+![FAST WEBSITE eleventy 11ty bootstrap website seo](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUm3PXkSlRFOI33DsWbDS8txqgV-5W8O9uihQ-GS4ZLiW5IA9XPNhL5gKlUdvnYwenyocqwttdGcaK7mt_fcgbNfsJPOBV9XO-SEmh1uqU1qTHHBGwhCal3jgRMYgU-3YMtl7FMwsAnSsSKpDLYZGAEfpSMXSSxmGJk9zZL8TJUS_h_7gE3FDp7BuV1w/s1348/fast%20website%20SEO%20eleventy%20(3).png>)
+
+Dekstop test
+
+![FAST WEBSITE eleventy 11ty bootstrap website seo](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipWgFiZYwew9odIcwnAArb8q3DywQHdfvIJGUSkiMZHdPo4towlgfhTlMLljWsYUbres1UGYlO1My--6wcSeHs1OYdfkQjxphdq5LyV28TGDqCNzwCnGzgJSZVzewZsqZpW-A6Q--GW2D-fljaPZZtHvDO5Kjn3sdi28YbViJM40IkKXmuv17xFtptNA/s1344/fast%20website%20SEO%20eleventy%20(4).png>)
+
 recipes :
 
 - eleventy
@@ -19,17 +41,6 @@ recipes :
 - stackblitz
 - markdown
 - auto SEO
-
----
-
-### Buy me a coffee ☕️ ❤️ ✌🏻
-
-with moneygram or western union
-
-- BANK CENTRAL ASIA
-- ACCOUNT NO : 0181884109
-- ACCOUNT NAME : SUCI CHANIFAH
-- IBAN/SWIFT CODE : CENAIDJA
 
 ---
 
