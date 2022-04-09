@@ -15,15 +15,20 @@
            <a class="nav-link {% if entry.url == page.url %} nav-item-active{% endif %}"  href="{{ entry.url | url }}">{{ entry.title }}</a>
       </li>
       {%- endfor %} 
-      
-        <li class="nav-item">
-           <a class="nav-link"  href="https://tokorak.web.app/">Premium</a>
-      </li>
-        <li class="nav-item">
-           <a class="nav-link"  href="https://bootstrap11ty.pages.dev/">Developer</a>
-      </li>
-        <li class="nav-item">
-           <a class="nav-link"  href="https://www.hockeycomputindo.com/2022/03/eleventy-bootstrap-web-template-seo.html">Doc</a>
+       <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Premium
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" target="_blank" href="https://tokorak.web.app/">Complete Company →</a></li>
+            <li><a class="dropdown-item" target="_blank" href="https://raktoko.web.app/">Company Profile →</a></li>
+            <li><a class="dropdown-item" target="_blank" href="https://bootstrap11ty.pages.dev/">Personal Profile →</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" target="_blank" href="https://eleventy.web.app/">Contact Developer →</a></li>
+          </ul>
+        </li>
+      <li class="nav-item">
+           <a class="nav-link" href="https://www.hockeycomputindo.com/2022/03/eleventy-bootstrap-web-template-seo.html">Documentation</a>
       </li>
         <li class="nav-item">
            <a class="nav-link btn btn-light text-dark"  href="https://github.com/mesinkasir/eleventyblog"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16">

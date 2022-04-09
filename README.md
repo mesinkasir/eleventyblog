@@ -13,6 +13,10 @@ documentation 💻 : [https://www.hockeycomputindo.com/2022/03/eleventy-bootstra
 video 📽 :
 [https://www.youtube.com/watch?v=zj_wFjUtuwU](https://www.youtube.com/watch?v=zj_wFjUtuwU)
 
+Gt Metrix test
+
+![eleventy 11ty bootstrap website seo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_V273MWO8WiftYwisDN2Qp8r3b_a66JhWvQUKY3f-Yi701yB_x9oc9IWTerO0G_jw9c5O76xv5DkDfrYd-fF6FTCDJeuDk6Qrc1YxtCUz9avefAnuFpZ52jd6yZYyb_O5vQ3Ghw2j3mGlxHf-8sDJqlIVC28OtUmhydu9ApYsbVMF_elO46Q2w-t9Qw/s1102/eleventy%20seo%20fast%20web.png)
+
 recipes :
 
 - eleventy
@@ -39,6 +43,10 @@ Webapp page area
 ![eleventy 11ty bootstrap website template free download source code gratis](https://blogger.googleusercontent.com/img/a/AVvXsEjBZQEEIIFpiibvcsw4PSE4Kt9u-kxGsOWrmbDlZ76GPzrPIZYgszvDrSap-LFHQNy0650K-3j6VUSrkJbsWGZJ1vG7w_lZ2ISMeFZEhUH9ZB3rtppxZdMI-JRVggm6sHdChJMuXCS1AS7o62eYE8tC6VSESlaB5-OpgDqkGwmo4cyWSQeSr2IChy1D2Q=s1344)
 
 Cinema video page area
+
+Gt Metrix test
+
+![eleventy 11ty bootstrap website seo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_V273MWO8WiftYwisDN2Qp8r3b_a66JhWvQUKY3f-Yi701yB_x9oc9IWTerO0G_jw9c5O76xv5DkDfrYd-fF6FTCDJeuDk6Qrc1YxtCUz9avefAnuFpZ52jd6yZYyb_O5vQ3Ghw2j3mGlxHf-8sDJqlIVC28OtUmhydu9ApYsbVMF_elO46Q2w-t9Qw/s1102/eleventy%20seo%20fast%20web.png)
 
 ---
 
