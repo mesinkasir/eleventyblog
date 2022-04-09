@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="ebvLr84CVTSpjtrusz7g7RB21J384B2SJOGrau8jl04" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title or metadata.title }}</title>
+    <meta name="description" content="{{ description or metadata.description }}">
+<meta content='{{ title or metadata.title }}' property='og:title'/>
+<meta content='https://axcora.com' property='og:author'/>
+<meta content='{{ title or metadata.title }}' name='facebook:title'/>
+<meta content='website' property='og:type'/>
+<meta content='https://www.facebook.com/mesinkasircomplete' property='facebook:author'/>
+<meta content='https://getbootstrap.com/docs/5.1/assets/img/favicons/apple-touch-icon.png' name='facebook:image'/>
+<meta content='{{ title or metadata.title }}' property='og:site_name'/>
+<meta content='{{ description or metadata.description }}' property='facebook:description'/>
+<meta content='summary_large_image' name='twitter:card'/>
+<meta content='https://twitter.com/hockeycomp' property='twitter:author'/>
+<meta content='@hockeycomp' name='twitter:site'/>
+<meta content='https://getbootstrap.com/docs/5.1/assets/img/favicons/apple-touch-icon.png' name='twitter:image'/>
+<meta content='{{ description or metadata.description }}' name='twitter:description'/>
+<meta content='{{ title or metadata.title }} ' name='twitter:title'/>
+<meta content='{{ title or metadata.title }}' name='keywords'/>
+<meta content='index, follow' name='robots'/>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/x-icon" href="https://getbootstrap.com/docs/5.1/assets/img/favicons/apple-touch-icon.png" />
+	<link rel="author" href="https://axcora.com" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
+    <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
+    <link href="{{ '/' | url }}css/index.css" rel="stylesheet" >
+  </head>

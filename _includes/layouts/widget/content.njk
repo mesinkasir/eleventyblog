@@ -1,0 +1,29 @@
+<main{% if templateClass %} class="container pt-3 {{ templateClass }}"{% endif %}>
+<div class="row">
+<div class="col-md-9 p-3 p-md-5">
+ {{ content | safe }}
+ {{ promotion | safe }}
+ {{ cinema | safe }}
+</div>
+<div class="col-md-3 p-3 p-md-5">
+<h3>Navigation</h3>
+<div class="list-group">
+{%- for entry in collections.all | eleventyNavigation %}
+<a class="list-group list-group-flush {% if entry.url == page.url %} btn btn-bgs {% endif %}"  href="{{ entry.url | url }}">{{ entry.title }}</a>
+{%- endfor %} 
+</div>
+<hr/>
+<a href="{{ metadata.slug.url5 }}"><img class="img-fluid rounded shadow" src="{{ metadata.slug.cont5 }}" alt="{{ metadata.slug.sub5 }}"/></a>
+<hr/>
+<div class="p-1">
+<h3>HashTag</h3>
+{% for tag in collections.tagList | filterTagList %}
+{% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+<a class="btn btn-bgs btn-sm border border-white" href="{{ tagUrl | url }}" class="post-tag">#{{ tag }}</a>
+{% endfor %}
+</div>
+<hr/>
+<a href="{{ metadata.slug.url4 }}"><img class="img-fluid rounded shadow" src="{{ metadata.slug.cont4 }}" alt="{{ metadata.slug.sub4 }}"/></a>
+</div>
+</div>
+</main>
