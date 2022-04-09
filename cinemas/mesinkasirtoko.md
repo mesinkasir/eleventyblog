@@ -3,6 +3,7 @@ title: Mesin Kasir Toko
 description: Mesin kasir toko barcode minimarket shop lengkap siap pakai.
 date: 2022-03-08
 cover: hzXc74f5KP8
+image: https://images.unsplash.com/photo-1541877944-ac82a091518a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8eW91dHViZSUyMHRodW1ibmFpbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60
 tags:
   - mesin kasir toko
   - mesin kasir

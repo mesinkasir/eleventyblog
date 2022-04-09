@@ -2,13 +2,11 @@
 <div class="row mt-5">
 <h3 class="text-center p-1 border bg-bgs">Hardware Devices</h3>
 {% for cinema in cinemaslist | reverse %}
-<div reversed class="cinemalist col-md-12 p-1" style="counter-reset: start-from {{ (cinemaslistCounter or cinemaslist.length) + 1 }}">
+<div reversed class="cinemalist col-md-6 p-1" style="counter-reset: start-from {{ (cinemaslistCounter or cinemaslist.length) + 1 }}">
 
 <div class="card">
 <a href="{{ cinema.url | url }}" class="cinemalist-link card p-1">
-<div class="ratio ratio-16x9">
-  <iframe src="https://www.youtube.com/embed/{{ cinema.data.cover }}" class="rounded" title="{{ cinema.data.title }}" allowfullscreen></iframe>
-</div>
+<img class="img-fluid" alt="{{ cinema.data.title }}" src="{{ cinema.data.image }}"/>
   <div class="card-body p-1  cinemalist-item{% if cinema.url == url %} cinemalist-item-active{% endif %}">
       <div class="card-body">
         <h5 class="card-title">{% if cinema.data.title %}{{ cinema.data.title }}{% else %}<code>{{ cinema.url }}</code>{% endif %}</h5>
