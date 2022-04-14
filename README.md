@@ -23,7 +23,7 @@ Gt Metrix test
 
 lighthouse test
 
-![FAST WEBSITE eleventy 11ty bootstrap website seo](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFuN9olGyoeSbuJGJ7LQyB12s46F9w0aKN9rxZJisG9Vp2WViXOM-ctNeXLFe-EpzTkfo_LfifjmoTVM_qkMFiVnbtqDzM-cMKa0RjvlrxY3iZp1Xq53IGNrTyQOt04WNNihr3v0OdSxwNjKYPSlFGOIHqEg0vg6ZjosJWpcsqGs1ckUbEPUftfDny9w/s1348/fast%20website%20SEO%20eleventy%20(2).png>)
+![FAST WEBSITE eleventy 11ty bootstrap website seo](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZCLKd59NEfCkDqzL-GD3BHwO_Z8UFZU7zT5MLo6IoR7LAb_l1cpS8FWle1yTjsulLJWqKDmf--x3KmzicnEmUvojT6P-ydB23OLsU3GanUdQPheiWQ_nOt-mKLx6YwU40YxhjUynRgj-kVGl2mA2HULsunKBgY8ElIUWDyzWY68s4BdVSLIrk6f5h7g/s1304/eleventy%20SEO.png>)
 
 Mobile test
 
