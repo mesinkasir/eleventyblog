@@ -15,6 +15,12 @@ video 📽 :
 
 ---
 
+### UPDATE VERSION 2 CANARY PEFORM
+
+![eleventy SEO blog](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3fNTkuazQv8Vyz28NOf2Gp2SOyjTLiP8xP7-GYPaNEJl6FSg_r0pSlU7RtVkeOWC2RF_gXOeWjSZvaeEYcbQv_0ZEuEQcOwbZCkmEt3XIBJZGy-vfqAoF4ntQMKwgs7c1nAdiuHSvcUKVQe9t22N83UU213WK3YSi_aP76goQaPOAKECaqtsX8AxT5w/s1186/Eleventy%20blog%20SEO.png)
+
+---
+
 ### TESTER RESULT
 
 Gt Metrix test
@@ -23,7 +29,7 @@ Gt Metrix test
 
 lighthouse test
 
-![FAST WEBSITE eleventy 11ty bootstrap website seo](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZCLKd59NEfCkDqzL-GD3BHwO_Z8UFZU7zT5MLo6IoR7LAb_l1cpS8FWle1yTjsulLJWqKDmf--x3KmzicnEmUvojT6P-ydB23OLsU3GanUdQPheiWQ_nOt-mKLx6YwU40YxhjUynRgj-kVGl2mA2HULsunKBgY8ElIUWDyzWY68s4BdVSLIrk6f5h7g/s1304/eleventy%20SEO.png>)
+![FAST WEBSITE eleventy 11ty bootstrap website seo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZCLKd59NEfCkDqzL-GD3BHwO_Z8UFZU7zT5MLo6IoR7LAb_l1cpS8FWle1yTjsulLJWqKDmf--x3KmzicnEmUvojT6P-ydB23OLsU3GanUdQPheiWQ_nOt-mKLx6YwU40YxhjUynRgj-kVGl2mA2HULsunKBgY8ElIUWDyzWY68s4BdVSLIrk6f5h7g/s1304/eleventy%20SEO.png)
 
 Mobile test
 
