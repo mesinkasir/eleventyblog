@@ -1,6 +1,6 @@
 ---
-title: Thisis
-description: Tema website blog SEO thisis 11ty untuk mendukung optimasi situs mu.
+title: Cool11ty
+description: New modern eleventy website template free download source code.
 date: 2022-08-15
 cover: https://text11ty.pages.dev/img/webcepat.png
 tags:
