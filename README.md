@@ -17,8 +17,6 @@ video 📽 :
 
 ### UPDATE VERSION 2 CANARY PEFORM
 
-![eleventy SEO blog](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3fNTkuazQv8Vyz28NOf2Gp2SOyjTLiP8xP7-GYPaNEJl6FSg_r0pSlU7RtVkeOWC2RF_gXOeWjSZvaeEYcbQv_0ZEuEQcOwbZCkmEt3XIBJZGy-vfqAoF4ntQMKwgs7c1nAdiuHSvcUKVQe9t22N83UU213WK3YSi_aP76goQaPOAKECaqtsX8AxT5w/s1186/Eleventy%20blog%20SEO.png)
-
 ---
 
 ### TESTER RESULT
