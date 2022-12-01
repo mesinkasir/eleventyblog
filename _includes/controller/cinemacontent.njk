@@ -1,6 +1,6 @@
 <h1><strong><a href="{{ url }}">{{ title }}</a></strong></h1>
 {%- if cover %}<div class="ratio ratio-16x9">
-<iframe src="https://www.youtube.com/embed/{{ cover }}" loading="lazy" class="rounded" title="{{ title }}" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/{{ cover }}" class="rounded" title="{{ title }}" allowfullscreen></iframe>
 </div>{%- endif %}
 Publish on : <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time><br/>
 <h3>{{ description }}</h3>
