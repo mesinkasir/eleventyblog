@@ -21,7 +21,7 @@ run `npm install`
 
 ### UPDATE VERSION 2 CANARY
 
-## run `npm update`
+run `npm update`
 
 ### TESTER RESULT
 
