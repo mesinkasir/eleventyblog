@@ -1,0 +1,8 @@
+{%- set nextCinema = collections.cinemas | getNextCollectionItem(page) %}
+{%- set previousCinema = collections.cinemas | getPreviousCollectionItem(page) %}
+{%- if nextCinema or previousCinema %}
+<div class="p-3">
+  {%- if nextCinema %} <a class="float-start btn btn-bgs btn-sm border border-white text-white" href="{{ nextCinema.url | url }}">← {{ nextCinema.data.title }}</a>{% endif %}
+  {%- if previousCinema %}&nbsp;<a class="float-end btn btn-bgs btn-sm border border-white text-white" href="{{ previousCinema.url | url }}">{{ previousCinema.data.title }} →</a>{% endif %}
+</div>
+{%- endif %}

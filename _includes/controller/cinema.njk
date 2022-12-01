@@ -1,0 +1,4 @@
+{% set maxCinemas = collections.cinemas.length | min(1) %}
+{% set cinemaslist = collections.cinemas | head(-1) %}
+{% set cinemaslistCounter = collections.cinemas | length %}
+{% include "desain/lastestcinema.njk" %}

@@ -1,0 +1,6 @@
+{%- if tags %}
+hastag : 
+{%- for tag in tags | filterTagList -%}
+{%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}&nbsp;<a href="{{ tagUrl | url }}" class="post-tag border-bgs p-1"> #{{ tag }} </a>
+{%- endfor %}
+{%- endif %}

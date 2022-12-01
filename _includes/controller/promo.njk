@@ -1,0 +1,4 @@
+{% set maxPromos = collections.promos.length | min(4) %}
+{% set promoslist = collections.promos | head(-4) %}
+{% set promoslistCounter = collections.promos | length %}
+{% include "desain/lastestpromo.njk" %}

@@ -1,0 +1,22 @@
+<div class="container">
+<div class="row">
+{% for post in postslist | reverse %}
+<div reversed class="postlist col-md-3 col-6 p-1" style="counter-reset: start-from {{ (postslistCounter or postslist.length) + 1 }}">
+
+<div class="card">
+<a href="{{ post.url | url }}" class="postlist-link row">
+    <div class="col-md-12">
+  <img class="img-fluid border-end" alt="{{ post.data.title }}" loading="lazy" width="100%" src="{{ post.data.cover }}"/>
+    </div>
+  <div class="card-body p-1 col-md-12 postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
+      <div class="card-body">
+        <h5 class="card-title">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</h5>
+    <p class="card-text"><time class="postlist-date text-secondary" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></p>
+      </div>
+  </div>
+  </a>
+</div>
+</div>
+{% endfor %}
+</div>
+</div>

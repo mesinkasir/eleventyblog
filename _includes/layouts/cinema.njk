@@ -2,26 +2,4 @@
 layout: layouts/base.njk
 templateClass: tmpl-cinema
 ---
-<h1><strong><a href="{{ url }}">{{ title }}</a></strong></h1>
-
-<div class="ratio ratio-16x9">
-  <iframe src="https://www.youtube.com/embed/{{ cover }}" class="rounded" title="{{ title }}" allowfullscreen></iframe>
-</div>
-Publish on : <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time><br/>
-
-<h3>{{ description }}</h3>
-{{ content | safe }}
-
-hastag : 
-{%- for tag in tags | filterTagList -%}
-{%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}&nbsp;<a href="{{ tagUrl | url }}" class="post-tag border-bgs p-1"> #{{ tag }} </a>
-{%- endfor %}
-
-{%- set nextCinema = collections.cinemas | getNextCollectionItem(page) %}
-{%- set previousCinema = collections.cinemas | getPreviousCollectionItem(page) %}
-{%- if nextCinema or previousCinema %}
-<div class="p-3">
-  {%- if nextCinema %} <a class="float-start btn btn-bgs btn-sm border border-white text-white" href="{{ nextCinema.url | url }}">← {{ nextCinema.data.title }}</a>{% endif %}
-  {%- if previousCinema %}&nbsp;<a class="float-end btn btn-bgs btn-sm border border-white text-white" href="{{ previousCinema.url | url }}">{{ previousCinema.data.title }} →</a>{% endif %}
-</div>
-{%- endif %}
+{% include "desain/cinema.njk" %}

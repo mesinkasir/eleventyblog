@@ -1,0 +1,4 @@
+{% set maxPosts = collections.posts.length | min(4) %}
+{% set postslist = collections.posts | head(-4) %}
+{% set postslistCounter = collections.posts | length %}
+{% include "desain/lastestpos.njk" %}

@@ -1,0 +1,5 @@
+<h1><strong><a href="{{ url }}">{{ title }}</a></strong></h1>
+{%- if cover %}<img width="100%" height="100%" class="img-fluid" alt="{{ title }}"  src="{{ cover }}"/>{%- endif %}
+Publish on : <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time><br/>
+<h3>{{ description }}</h3>
+{{ content | safe }}

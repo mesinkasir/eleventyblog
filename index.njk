@@ -4,9 +4,10 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
-{% set maxPosts = collections.posts.length | min(4) %}
+
 <h1 class="text-center"><img class="img-fluid rounded-circle" alt="{{metadata.description}}" src="https://getbootstrap.com/docs/5.1/assets/img/favicons/apple-touch-icon.png" width="40" /> {{ metadata.title }}</h1>
 
+{% set maxPosts = collections.posts.length | min(4) %}
 {% set postslist = collections.posts | head(-4) %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
