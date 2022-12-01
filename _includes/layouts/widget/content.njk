@@ -19,7 +19,7 @@
 <h3>HashTag</h3>
 {% for tag in collections.tagList | filterTagList %}
 {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
-<a class="btn btn-bgs btn-sm border border-white" href="{{ tagUrl | url }}" class="post-tag">#{{ tag }}</a>
+<a class="btn btn-bgs btn-sm border border-white post-tag" href="{{ tagUrl | url }}">#{{ tag }}</a>
 {% endfor %}
 </div>
 <hr/>
