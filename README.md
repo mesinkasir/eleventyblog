@@ -15,8 +15,11 @@ video 📽 :
 
 ---
 
-### UPDATE VERSION 2 CANARY PEFORM
+### Version 1
+run `npm install`
 
+### UPDATE VERSION 2 CANARY
+run `npm update`
 ---
 
 ### TESTER RESULT

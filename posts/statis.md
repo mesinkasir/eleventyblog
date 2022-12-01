@@ -20,7 +20,7 @@ layout: layouts/post.njk
 
 New modern with SEO for eleventy [11ty](https://11ty.dev), this template is super fast unique and cool, that's why you can call it cool11ty.
 
-this template using dark mode include modern design, so you can download it for free now.. 
+this template using dark mode include modern design, so you can download it for free now..
 
 ### NEW ELEVENTY WEB TEMPLATE COOL11TY
 
