@@ -5,7 +5,7 @@
 <div reversed class="cinemalist col-md-12 p-1" style="counter-reset: start-from {{ (cinemaslistCounter or cinemaslist.length) + 1 }}">
 <div class="card">
 <a href="{{ cinema.url | url }}" class="cinemalist-link card p-1">
-<img class="img-fluid" alt="{{ cinema.data.title }}" src="{{ cinema.data.image }}"/>
+<img class="img-fluid" width="100%" height="100%" alt="{{ cinema.data.title }}" src="{{ cinema.data.image }}"/>
   <div class="card-body p-1  cinemalist-item{% if cinema.url == url %} cinemalist-item-active{% endif %}">
       <div class="card-body">
         <h4 class="card-title">{% if cinema.data.title %}{{ cinema.data.title }}{% else %}<code>{{ cinema.url }}</code>{% endif %}</h4>
