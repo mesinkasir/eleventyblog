@@ -2,7 +2,7 @@
 title: Text11ty 
 description: Tema super SEO khusus para blogger bekerja dengan menggunakan text11ty.
 date: 2022-04-06
-cover: https://text11ty.pages.dev/img/webcepat.png
+cover: https://11tyshop.pages.dev/img/eleventy.png
 tags:
   - eleventy
   - website

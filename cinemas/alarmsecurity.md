@@ -3,7 +3,7 @@ title: Alarm security
 description: Alat keamanan supermarket minimarket toko baju distro.
 date: 2022-03-01
 cover: JUM7ZPjBK4Y
-image: https://images.unsplash.com/photo-1611162616475-46b635cb6868?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8eW91dHViZSUyMHRodW1ibmFpbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60
+image: https://tokokasir.vercel.app/img/alarmtokobajubutik.jpg
 tags:
   - tags
   - alarm security

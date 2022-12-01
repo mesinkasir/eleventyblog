@@ -3,7 +3,7 @@ title: Mesin kasir restoran
 description: Mesin kasir lengkap touchscreen restoran cafe rumah makan waiters kasir kitchen admin.
 date: 2022-03-09
 cover: gGZcHO32mh4
-image: https://images.unsplash.com/photo-1603566234384-f5f5b59168cc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8eW91dHViZSUyMHRodW1ibmFpbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60
+image: https://11tyshop.pages.dev/img/darkresto.webp
 tags:
   - mesin kasir restoran
   - mesin kasir

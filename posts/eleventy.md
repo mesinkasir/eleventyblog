@@ -2,7 +2,7 @@
 title: Mengapa eleventy ??
 description: Ada beberapa hal mengapa membangun website menggunakan eleventy bootstrap.
 date: 2022-03-16
-cover: https://blogger.googleusercontent.com/img/a/AVvXsEhVZgDHFVw5heU_P9cj7d_QyzSCflVW-bAUjDRYU5lkQ_uVr9uupEjEYzN8Mn85M8wj-tPbUX1RRk93JI_-7Micce29Hem-W6JeeRYssgsfUCAPDCExVJDaNtH_PhETdlpyHWbmK79Ck5HZb44tO6dbeN76Z-9fWVk2EsVvMcRpce1uOrFsfujJ9ber4g=s400
+cover: https://11tyshop.pages.dev/img/eleventy.png
 tags:
   - eleventy
   - website

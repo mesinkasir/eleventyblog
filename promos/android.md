@@ -2,7 +2,7 @@
 title: Aplikasi Android
 description: Pembuatan aplikasi android informasi siap upload playstore.
 date: 2022-03-09
-cover: https://blogger.googleusercontent.com/img/a/AVvXsEjpBpN2tg9dP_6cIpnC8QHFsDqNAfXXSED8J7MPreRx-goiAnignUXZGRyBj3Fi5XP1yohqnvxEV2sqSVINGFBiDC9dt5wpng311-bn7A2fwYeAv1CW53gjx2ddi-HUFYdE-1kcjfbyQF0O91xV4CKBDnDXdo2xGVqYiX9syDqoQ825x2lMa9I-vO1LNg=s1024
+cover: https://11tyshop.pages.dev/img/android.webp
 tags:
   - aplikasi android
   - android

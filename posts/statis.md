@@ -2,7 +2,7 @@
 title: Cool11ty
 description: New modern eleventy website template free download source code.
 date: 2022-08-15
-cover: https://text11ty.pages.dev/img/webcepat.png
+cover: https://11tyshop.pages.dev/img/eleventy.png
 tags:
   - eleventy
   - website

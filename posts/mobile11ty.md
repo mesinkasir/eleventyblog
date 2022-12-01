@@ -2,7 +2,7 @@
 title: Mobile11ty 
 description: Buat mobile website dan android app dalam satu paket saja menggunakan mobile11ty eleventy web themes template.
 date: 2022-04-06
-cover: https://text11ty.pages.dev/img/webcepat.png
+cover: https://11tyshop.pages.dev/img/eleventy.png
 tags:
   - eleventy
   - website

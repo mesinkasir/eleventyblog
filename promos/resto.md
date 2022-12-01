@@ -2,7 +2,7 @@
 title: Aplikasi Restoran
 description: Aplikasi kasir point of sale penjualan restoran cafe rumah makan.
 date: 2022-03-12
-cover: https://1.bp.blogspot.com/-V7E1DP8HSCY/YKnlpB3J1DI/AAAAAAAAOHo/l1iyNmn4K8s2TeYCkxe7HWSZtdUEgoqxgCLcBGAsYHQ/s1484/aplikasi%2Brestoran%2Bterbaru%2Bnew%2Blengkap%2Bmupdate%2Brestaurant%2Bpos%2Bapps.jpg
+cover: https://tokokasir.vercel.app/img/onlinerestopos.webp
 tags:
   - aplikasi restoran
   - website restoran

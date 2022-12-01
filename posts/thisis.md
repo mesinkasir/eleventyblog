@@ -2,7 +2,7 @@
 title: Thisis
 description: Tema website blog SEO thisis 11ty untuk mendukung optimasi situs mu.
 date: 2022-04-16
-cover: https://text11ty.pages.dev/img/webcepat.png
+cover: https://11tyshop.pages.dev/img/eleventy.png
 tags:
   - eleventy
   - website
