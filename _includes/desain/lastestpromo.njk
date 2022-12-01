@@ -8,8 +8,8 @@
   <img class="card-img-top" alt="{{ promo.data.title }}" loading="lazy" width="100%" src="{{ promo.data.cover }}"/>
   <div class="card-body p-1 promoslist-item{% if promo.url == url %} promolist-item-active{% endif %}">
       <div class="card-body">
-        <h5 class="card-title">{% if promo.data.title %}{{ promo.data.title }}{% else %}<code>{{ promo.url }}</code>{% endif %}</h5>
-    <p class="card-text"><time class="promolist-date text-secondary" datetime="{{ promo.date | htmlDateString }}">{{ promo.date | readableDate }}</time></p>
+        <h4 class="card-title">{% if promo.data.title %}{{ promo.data.title }}{% else %}<code>{{ promo.url }}</code>{% endif %}</h4>
+    <p class="card-text"><small><time class="promolist-date text-secondary" datetime="{{ promo.date | htmlDateString }}">{{ promo.date | readableDate }}</time></small></p>
       </div>
   </div>
   </a>

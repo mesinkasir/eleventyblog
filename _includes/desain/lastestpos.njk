@@ -10,8 +10,8 @@
     </div>
   <div class="card-body p-1 col-md-12 postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
       <div class="card-body">
-        <h5 class="card-title">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</h5>
-    <p class="card-text"><time class="postlist-date text-secondary" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></p>
+        <h4 class="card-title">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</h4>
+    <p class="card-text"><small><time class="postlist-date text-secondary" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></small></p>
       </div>
   </div>
   </a>

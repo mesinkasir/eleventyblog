@@ -2,7 +2,7 @@
 title: Shop11ty
 description: Headless online shop static site generator with ecwid shop11ty eleventy
 date: 2022-12-01
-cover: https://11tyshop.pages.dev/img/eleventy.png
+cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb6bB9qkANsOm5ETl_J_6-q4Nu1bnqzyK0xku1V4h_uc_bCBgCPsqo2BK1AxRsPByhKKD0HHNpcwOJyxybgC93UF3N8jOdIUde7mMD7pGngw9e1EDTPZSsjQoVP_M9pf_Wvh5uP9DFGnGNjGetLPJKbogrNqkpA0_8qQjBG8qxNNPD0rTKYYDFw0w79Q/s634/eleventy.webp
 tags:
   - eleventy
   - website

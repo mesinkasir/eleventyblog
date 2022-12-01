@@ -8,8 +8,8 @@
 <img class="img-fluid" alt="{{ cinema.data.title }}" src="{{ cinema.data.image }}"/>
   <div class="card-body p-1  cinemalist-item{% if cinema.url == url %} cinemalist-item-active{% endif %}">
       <div class="card-body">
-        <h5 class="card-title">{% if cinema.data.title %}{{ cinema.data.title }}{% else %}<code>{{ cinema.url }}</code>{% endif %}</h5>
-    <p class="card-text"><time class="cinemalist-date text-secondary" datetime="{{ cinema.date | htmlDateString }}">{{ cinema.date | readableDate }}</time></p>
+        <h4 class="card-title">{% if cinema.data.title %}{{ cinema.data.title }}{% else %}<code>{{ cinema.url }}</code>{% endif %}</h4>
+    <p class="card-text"><small><time class="cinemalist-date text-secondary" datetime="{{ cinema.date | htmlDateString }}">{{ cinema.date | readableDate }}</time></small></p>
       </div>
   </div>
   </a>

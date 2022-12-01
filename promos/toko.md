@@ -2,7 +2,7 @@
 title: Aplikasi Toko
 description: Aplikasi kasir point of sale penjualan toko retail minimarket shop.
 date: 2022-03-10
-cover: https://tokokasir.vercel.app/img/programkasirtokopenjualan.jpg
+cover: https://tokokasir.vercel.app/img/aplikasitokogrosireceran.webp
 tags:
   - aplikasi toko
   - website toko
