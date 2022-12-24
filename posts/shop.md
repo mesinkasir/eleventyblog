@@ -25,7 +25,7 @@ very easy to work just copy paste your product id and your product shop is displ
 
 ### Headless Online shop static site generator
 
-Seamkin keren dan beken dengan menggunakan kode sumber terbuka ini gaes... dibangun menggunakan eleventy static site generator menjadikan kesempurnaan untuk situs kamu. dan tentunya sangat mudah saja untuk di pakai.
+Semakin keren dan beken dengan menggunakan kode sumber terbuka ini gaes... dibangun menggunakan eleventy static site generator menjadikan kesempurnaan untuk situs kamu. dan tentunya sangat mudah saja untuk di pakai.
 
 [Download Now →](https://github.com/mesinkasir/11ty-shop/)
 

@@ -24,6 +24,6 @@ Cute imut dan menarik dengan menggunakan cuteblog untuk eleventy 11ty , semakin 
 
 Nikmati sensai dengan keunikan yang ada dan kemudahan dalam update konten artikel menggunakan modern generator static eleventy 11ty dalam mendukung pengembangan situs dan blog mu.
 
-[download cuteblog 11tyhttps://github.com/mesinkasir/cuteblog11ty)
+[download cuteblog 11ty](https://github.com/mesinkasir/cuteblog11ty)
 
 atau test demo nya [demo →](https://cuteblog.pages.dev/)
