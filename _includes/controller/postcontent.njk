@@ -2,11 +2,5 @@
 {%- if cover %}<img width="100%" height="100%" class="img-fluid" alt="{{ title }}"  src="{{ cover }}"/>{%- endif %}
 Publish on : <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time><br/>
 <h3>{{ description }}</h3>
-<nav aria-label="breadcrumb p-1">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="{{ '/' | url }}">Home</a></li>
-    <li class="breadcrumb-item"><a href="{{site.url}}/posts">Posts</a></li>
-    <li class="breadcrumb-item active" aria-current="page">{{title}}</li>
-  </ol>
-</nav>
+{% include "controller/breadcumb.njk" %}
 {{ content | safe }}
